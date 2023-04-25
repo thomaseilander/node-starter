@@ -1,6 +1,6 @@
 <template>
   <div>
-    Hello world this is development v5!
+    Hello world this is development v6!
   </div>
 </template>
 
