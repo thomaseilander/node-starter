@@ -1,6 +1,8 @@
 <template>
   <div>
+  <h1 class="text-3xl font-bold underline">
     Hello world this is development v7!
+  </h1>
   </div>
 </template>
 

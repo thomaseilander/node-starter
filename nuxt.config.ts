@@ -1,4 +1,15 @@
 // https://nuxt.com/docs/api/configuration/nuxt-config
-export default defineNuxtConfig({
+import { resolve } from "path";
 
-})
+export default defineNuxtConfig({
+    alias: {
+        "@": resolve(__dirname, "/")
+    },
+    css: ["~/assets/main.css"],
+    postcss: {
+        plugins: {
+            tailwindcss: {},
+            autoprefixer: {},
+        },
+    },
+});
