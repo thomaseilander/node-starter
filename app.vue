@@ -1,6 +1,9 @@
 <template>
+<div>
+<theheader></theheader>
+</div>
   <div>
-  <h1 class="text-3xl font-bold underline">
+  <h1 class="text-3xl font-bold underline animate-pulse">
     Hello world this is development v7!
   </h1>
   </div>
