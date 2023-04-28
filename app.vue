@@ -4,7 +4,7 @@
 </div>
   <div>
   <h1 class="text-3xl font-bold underline animate-pulse">
-    Hello world this is development v7!
+    Hello world this is development v8!
   </h1>
   </div>
 </template>
